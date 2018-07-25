@@ -11,3 +11,5 @@ and​ ​ the​ ​ timestamp​ ​ of​ ​ the​ ​ last​ ​ update�
 seconds​ ​ to​ ​ show​ ​ the​ ​ buses​ ​ movements.
 
 # SEE REPORT FOR MORE INFORMATION
+
+# Use index.php to run the webpage
